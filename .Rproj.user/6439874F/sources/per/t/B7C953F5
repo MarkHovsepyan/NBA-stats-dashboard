@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556634114758.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2252591627",
+    "id" : "B7C953F5",
+    "lastKnownWriteTime" : 1556914355,
+    "last_content_update" : 1556914355321,
+    "path" : "D:/Programming/R/Information Visualizations (AUA)/Assignment 2/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "173,20",
+        "scrollLine" : "173"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
